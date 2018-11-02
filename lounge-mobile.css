@@ -34,14 +34,3 @@ h2 {
   background-repeat:   no-repeat;
   background-position: top left;
 */
-}
-.guarantee{
-  line-height: 1.9em;
-  font-style: italic;
-  border-color: black;
-  border-width: 1px;
-  border-style: soild;
-  background-color: #a7cece;
-  padding: 25px;
-  margin: 30px;
-}
